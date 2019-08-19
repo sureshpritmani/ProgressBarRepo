@@ -1,5 +1,4 @@
 Project : Progress Bar Assignment
-Developer : Poonam Meghnani
 Date : 15-Feb-2017
 Entry Point : index.html
 
